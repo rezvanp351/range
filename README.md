@@ -88,6 +88,18 @@ Prints only even numbers between `0` and `9`.
 Based on examples from **[W3Schools Python range()](https://www.w3schools.com/python/python_range.asp)**, with additional educational explanations for students.
 
 ---
+## 📎 Author
+👩‍💻 **Created by:** Rezvan Panah  
+📅 **Year:** 2025  
+💬 **Language:** Python 3.10  
+🎯 **Purpose:** Teaching Python functions in a clear and beginner-friendly way.
 
-## 🧑‍💻 Author
-**Rezvan Panah** — Educational version for students learning Python fundamentals.
+---
+
+## 💖 Support & Feedback
+If this repository helped you, please consider:
+- ⭐ **Starring** the repo  
+- 🗨️ **Commenting** your thoughts  
+- 📢 **Sharing** it with others learning Python  
+
+Your feedback motivates more free educational content!

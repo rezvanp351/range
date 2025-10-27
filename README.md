@@ -85,7 +85,7 @@ Prints only even numbers between `0` and `9`.
 ---
 
 ## 📚 Source
-Based on examples from **[W3Schools Python range()](https://www.w3schools.com/python/ref_func_range.asp)**, with additional educational explanations for students.
+Based on examples from **[W3Schools Python range()](https://www.w3schools.com/python/python_range.asp)**, with additional educational explanations for students.
 
 ---
 
